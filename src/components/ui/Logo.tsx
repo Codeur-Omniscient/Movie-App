@@ -4,7 +4,7 @@ const Logo = () => {
       <span role="img" aria-label="popcorn">
         🍿
       </span>
-      <h1>usePopcorn</h1>
+      <h1>Movie App</h1>
     </div>
   );
 };
